@@ -1,0 +1,19 @@
+c:\users\nguyenthao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\bin\Debug\Linq with Csharp.exe.config
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\bin\Debug\Linq with Csharp.exe
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\bin\Debug\Linq with Csharp.pdb
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.csprojResolveAssemblyReference.cache
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\obj\Debug\Linq_with_Csharp.Form1.resources
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\obj\Debug\Linq_with_Csharp.Properties.Resources.resources
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.csproj.GenerateResource.Cache
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.exe
+C:\Users\NguyenThao\documents\visual studio 2013\Projects\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.pdb
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\bin\Debug\Linq with Csharp.exe.config
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\bin\Debug\Linq with Csharp.exe
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\bin\Debug\Linq with Csharp.pdb
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.csprojAssemblyReference.cache
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\obj\Debug\Linq_with_Csharp.Form1.resources
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\obj\Debug\Linq_with_Csharp.Properties.Resources.resources
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.csproj.GenerateResource.cache
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.csproj.CoreCompileInputs.cache
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.exe
+C:\Users\max no3\Downloads\Linq with Csharp\Linq with Csharp\Linq with Csharp\obj\Debug\Linq with Csharp.pdb
